@@ -1,0 +1,11 @@
+C:\Workspace\Team\week-6-pair-exercises-team-5\capstone\Capstone.Tests\bin\Debug\Capstone.Tests.dll
+C:\Workspace\Team\week-6-pair-exercises-team-5\capstone\Capstone.Tests\bin\Debug\Capstone.Tests.pdb
+C:\Workspace\Team\week-6-pair-exercises-team-5\capstone\Capstone.Tests\bin\Debug\Capstone.exe
+C:\Workspace\Team\week-6-pair-exercises-team-5\capstone\Capstone.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Workspace\Team\week-6-pair-exercises-team-5\capstone\Capstone.Tests\bin\Debug\Capstone.pdb
+C:\Workspace\Team\week-6-pair-exercises-team-5\capstone\Capstone.Tests\bin\Debug\Capstone.exe.config
+C:\Workspace\Team\week-6-pair-exercises-team-5\capstone\Capstone.Tests\obj\Debug\Capstone.Tests.csprojAssemblyReference.cache
+C:\Workspace\Team\week-6-pair-exercises-team-5\capstone\Capstone.Tests\obj\Debug\Capstone.Tests.csproj.CoreCompileInputs.cache
+C:\Workspace\Team\week-6-pair-exercises-team-5\capstone\Capstone.Tests\obj\Debug\Capstone.Tests.csproj.CopyComplete
+C:\Workspace\Team\week-6-pair-exercises-team-5\capstone\Capstone.Tests\obj\Debug\Capstone.Tests.dll
+C:\Workspace\Team\week-6-pair-exercises-team-5\capstone\Capstone.Tests\obj\Debug\Capstone.Tests.pdb
